@@ -7,10 +7,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "history.html",
+    "href": "history.html",
+    "title": "time_series_analysis history",
+    "section": "",
+    "text": "historical overview\ntest a link to other page index\n\n1 + 4\n\n[1] 5"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "time_series_analysis",
     "section": "",
-    "text": "This is a Quarto website ohyeah ghpagesaaaa\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "this will be a tutorial/course on time-series analysis of ecological dynamics\n1 - Intro to population and community dynamics 2 - Intro to time-series analysis 3 - Empirical dynamic modelling 4 - cross-convergent mapping 5 - S-map 6 - Tools\ntest a link to other page history\n\n1 + 3\n\n[1] 4"
   }
 ]
