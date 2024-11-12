@@ -11,13 +11,19 @@
     "href": "history.html",
     "title": "time_series_analysis history",
     "section": "",
-    "text": "historical overview\ntest a link to other page index\n\n1 + 4\n\n[1] 5"
+    "text": "historical overview\ntest a link to other page index\n\n1 + 4\n\n[1] 5",
+    "crumbs": [
+      "History"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "time_series_analysis",
     "section": "",
-    "text": "this will be a tutorial/course on time-series analysis of ecological dynamics\n1 - Intro to population and community dynamics 2 - Intro to time-series analysis 3 - Empirical dynamic modelling 4 - cross-convergent mapping 5 - S-map 6 - Tools\ntest a link to other page history\n\n1 + 3\n\n[1] 4"
+    "text": "this will be a tutorial/course on time-series analysis of ecological dynamics\n1 - Intro to population and community dynamics 2 - Intro to time-series analysis 3 - Empirical dynamic modelling 4 - cross-convergent mapping 5 - S-map 6 - Tools\ntest a link to other page history\n\n1 + 3\n\n[1] 4",
+    "crumbs": [
+      "Introduction"
+    ]
   }
 ]
